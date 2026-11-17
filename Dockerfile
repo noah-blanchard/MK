@@ -15,4 +15,5 @@ COPY v9 /usr/share/nginx/html/v9
 COPY v10 /usr/share/nginx/html/v10
 COPY v11 /usr/share/nginx/html/v11
 COPY v12 /usr/share/nginx/html/v12
+COPY v13 /usr/share/nginx/html/v13
 EXPOSE 80
