@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1000">
+  <defs>
+    <pattern id="dots" width="14" height="14" patternUnits="userSpaceOnUse"><circle cx="7" cy="7" r="2.4" fill="#2443c6"/></pattern>
+    <radialGradient id="fade" cx=".3" cy=".95" r=".9"><stop offset="0" stop-color="#fff"/><stop offset="1" stop-color="#fff" stop-opacity=".15"/></radialGradient>
+    <mask id="m"><rect width="800" height="1000" fill="url(#fade)"/></mask>
+  </defs>
+  <rect width="800" height="1000" fill="#eef0fb"/>
+  <rect width="800" height="1000" fill="url(#dots)" opacity=".35" mask="url(#m)"/>
+  <g fill="#2443c6" fill-opacity=".86">
+    <circle cx="400" cy="400" r="135"/>
+    <path d="M150 1000c0-210 110-340 250-340s250 130 250 340Z"/>
+  </g>
+  <text x="400" y="955" text-anchor="middle" fill="#fff" style="font-family:Arial,sans-serif;font-size:22px;letter-spacing:6px;font-weight:700">PHOTO · MELANIE KATHAN</text>
+</svg>
