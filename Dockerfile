@@ -10,4 +10,6 @@ COPY v4 /usr/share/nginx/html/v4
 COPY v5 /usr/share/nginx/html/v5
 COPY v6 /usr/share/nginx/html/v6
 COPY v7 /usr/share/nginx/html/v7
+COPY v8 /usr/share/nginx/html/v8
+COPY v9 /usr/share/nginx/html/v9
 EXPOSE 80
