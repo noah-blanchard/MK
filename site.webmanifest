@@ -1,0 +1,8 @@
+{
+  "name": "Melanie Kathan — Translation",
+  "short_name": "M. Kathan",
+  "icons": [{ "src": "/apple-touch-icon.png", "sizes": "180x180", "type": "image/png" }],
+  "theme_color": "#f3eee4",
+  "background_color": "#f3eee4",
+  "display": "browser"
+}
